@@ -1,0 +1,3 @@
+[submodule "NIR/alcohol-db"]
+	path = NIR/alcohol-db
+	url = git@github.com:Choapinus/alcohol-db.git
