@@ -2,3 +2,4 @@
 *.png
 *.jpg
 *.jpeg
+!static/vis_vs_nir.png
