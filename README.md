@@ -11,9 +11,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget ex fringilla,
 Vivamus vitae tortor pharetra, tempus justo non, pellentesque dolor. Sed vel felis feugiat tortor suscipit elementum quis vel lorem. Aliquam erat volutpat. Proin libero augue, faucibus id massa sed, ultricies ornare eros. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut lectus et purus vehicula rhoncus. Proin semper odio sed volutpat lacinia. Morbi efficitur gravida odio, at vulputate dui sodales sed.
 
 
-![figure15_paper_alcohol](https://user-images.githubusercontent.com/45126159/174738149-2bc36770-e9ec-4504-a4d2-836c947eed35.png)
-<em>Example of semi-closed challenging images. Left original images under alcohol consumption. Right: Our proposed
-DenseNet10 results.</em>
+![figure_vis_vs_nir](https://raw.githubusercontent.com/Choapinus/Iris/master/static/vis_vs_nir.png?token=GHSAT0AAAAAABSXZOPSBMNI6VH4J3AFPGVGYXWP22A)
+<em>Example of images of each dataset. On the upper side we can found NIR images examples, and at the bottom side we can found VIS examples.</em>
 
 
 ## NIR Datasets
