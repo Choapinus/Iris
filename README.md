@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget ex fringilla,
 Vivamus vitae tortor pharetra, tempus justo non, pellentesque dolor. Sed vel felis feugiat tortor suscipit elementum quis vel lorem. Aliquam erat volutpat. Proin libero augue, faucibus id massa sed, ultricies ornare eros. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut lectus et purus vehicula rhoncus. Proin semper odio sed volutpat lacinia. Morbi efficitur gravida odio, at vulputate dui sodales sed.
 
 
-![figure_vis_vs_nir](https://raw.githubusercontent.com/Choapinus/Iris/master/static/vis_vs_nir.png?token=GHSAT0AAAAAABSXZOPSBMNI6VH4J3AFPGVGYXWP22A)
+![figure_vis_vs_nir](https://raw.githubusercontent.com/Choapinus/Iris/master/static/vis_vs_nir.png?token=GHSAT0AAAAAABSXZOPSRPOZ4MPDW7DXL2OWYXWQASA)
 <em>Example of images of each dataset. On the upper side we can found NIR images examples, and at the bottom side we can found VIS examples.</em>
 
 
