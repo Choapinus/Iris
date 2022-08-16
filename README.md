@@ -84,6 +84,20 @@ Dataset available form: insert link
   pages={109732-109744},
   doi={10.1109/ACCESS.2021.3101256}}
 ```
+```
+@capsule_cite{}
+```
+```
+@article{tapia2022selfie,
+  title={Selfie Periocular Verification Using an Efficient Super-Resolution Approach},
+  author={Tapia, Juan E and Valenzuela, Andres and Lara, Rodrigo and Gomez-Barrero, Marta and Busch, Christoph},
+  journal={IEEE Access},
+  volume={10},
+  pages={67573--67589},
+  year={2022},
+  publisher={IEEE}
+}
+```
 
 
 ## Information
