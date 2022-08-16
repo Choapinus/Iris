@@ -28,9 +28,7 @@ In this work is proposed an Efficient Single Image Super-Resolution algorithm, w
 
 Dataset available from source: https://www.v7labs.com/open-datasets/facebook-openeds
 
-<centering>
-<img src="https://github.com/Choapinus/Iris/blob/master/static/openeds_example.png?raw=true" width="500" height="600">
-</centering>
+<img src="https://github.com/Choapinus/Iris/blob/master/static/openeds_example.png?raw=true" width="200" height="320" class="center">
 
 
 - [Alcohol-db](https://github.com/Choapinus/alcohol-db): 5 sessions of NIR image capturing were done for each person at intervals of 00, 15, 30, 45 and 60 minutes after having ingested alcohol.
