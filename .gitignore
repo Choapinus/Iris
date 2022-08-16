@@ -4,3 +4,4 @@
 *.jpeg
 !static/vis_vs_nir.png
 !static/openeds_example.png
+!static/makeup_example.png
