@@ -39,7 +39,7 @@ Traditional databases available to test iris segmentation have not present image
 Dataset available from: insert link
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45126159/172894528-9f4d44b9-4d2d-4c9c-9f71-66dce00940bb.png" width="200" height="320">
+  <img src="https://user-images.githubusercontent.com/45126159/172894528-9f4d44b9-4d2d-4c9c-9f71-66dce00940bb.png">
 </p>
 
 - Makeup-db: Traditional datasets for testing iris segmentation doesn't include photos of iris acquired under cosmetic effects on the NIR or Visual Spectrum. This dataset provides 530 images from 48 subjects, where each ROI (iris, pupil, sclera and makeup) of the images was labeled with VIA v2.0.5.
