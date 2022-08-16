@@ -3,3 +3,4 @@
 *.jpg
 *.jpeg
 !static/vis_vs_nir.png
+!static/openeds_example.png
