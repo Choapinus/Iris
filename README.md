@@ -29,7 +29,7 @@ In this work is proposed an Efficient Single Image Super-Resolution algorithm, w
 Dataset available from source: https://www.v7labs.com/open-datasets/facebook-openeds
 
 <p align="center">
-<img src="https://github.com/Choapinus/Iris/blob/master/static/openeds_example.png?raw=true" width="200" height="320" class="center">
+  <img src="https://github.com/Choapinus/Iris/blob/master/static/openeds_example.png?raw=true" width="200" height="320">
 </p>
 
 
@@ -37,6 +37,10 @@ Dataset available from source: https://www.v7labs.com/open-datasets/facebook-ope
 Traditional databases available to test iris segmentation have not present images with iris captured under alcohol consumption on NIR or Visual Spectrum. This database was captured using two different iris NIR sensors: Iritech Gemini, and Iritech Venus.
 
 Dataset available from: insert link
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45126159/172894528-9f4d44b9-4d2d-4c9c-9f71-66dce00940bb.png" width="200" height="320">
+</p>
 
 - Makeup-db: Traditional datasets for testing iris segmentation doesn't include photos of iris acquired under cosmetic effects on the NIR or Visual Spectrum. This dataset provides 530 images from 48 subjects, where each ROI (iris, pupil, sclera and makeup) of the images was labeled with VIA v2.0.5.
 
