@@ -66,7 +66,7 @@ Dataset available form: insert link
 - NTNU/Nokia: The NTNU dataset comprises the biometric data from 152 volunteers and 3,139 total images. Each subject provided samples of left and right iris and there are in average 11 images for each subject from a NOKIA N93i mobile.
 
 <p align="center">
-  <img src="https://github.com/Choapinus/Iris/blob/master/static/ntnu_nokia_example.png?raw=true" width="400">
+  <img src="https://github.com/Choapinus/Iris/blob/master/static/ntnu_nokia_example.jpg?raw=true" width="400">
 </p>
 
 
